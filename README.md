@@ -1,15 +1,15 @@
-This page is used for tracking bugs and general progress of the the KnightVision App beta.
+This page is used for tracking bugs and general progress of the KnightVision App beta.
 
-Knightvision is an application that records moves in realtime from a chessboard using a phone camera and a tripod. It can live stream your games and save them to external plattforms.
+Knightvision is an application that records moves in real-time from a chessboard using a phone camera and a tripod. It can live stream your games and save them to external platforms.
 
-Register at [knightvision.io](https://knightvision.io) to acces the beta and for more info.
+Register at [knightvision.io](https://knightvision.io) to access the beta and for more info.
 
 
 ## Issues
 
 Please file issues in the Github issue tracker. For security issues, please report them to knightvision@northlink.io.
 
-## Roadmap
+## Road map
 
 The status of the project is currently:
 - [x] App developed for Android
@@ -20,7 +20,7 @@ The status of the project is currently:
 - [x] Automatic import of games to Lichess
 
 We are releasing the app in closed beta in the beginning to mid January 2022.
-- [ ] Beta signup is open
+- [ ] Beta sign up is open
 - [ ] Beta app is released on Google Play Store
 
 After this we will be working towards:
@@ -39,6 +39,6 @@ We also have the following goals in the long run:
 - [ ] Make it possible to correct potential errors in the tracking
 - [ ] Possibly releasing parts of the code as open-source software
 
-If there is enough demand we will also cosider:
-- [ ] Possiblity of calibrating for specific chess sets 
+If there is enough demand we will also consider:
+- [ ] Possibility of calibrating for specific chess sets 
 - [ ] Detecting clock and move-times
