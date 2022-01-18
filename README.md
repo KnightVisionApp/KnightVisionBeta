@@ -20,8 +20,8 @@ The status of the project is currently:
 - [x] Automatic import of games to Lichess
 
 We are releasing the app in closed beta in the beginning to mid January 2022.
-- [ ] Beta sign up is open
-- [ ] Beta app is released on Google Play Store
+- [x] Beta sign up is open
+- [x] Beta app is released on Google Play Store
 
 After this we will be working towards:
 - [ ] General stability and performance issues
